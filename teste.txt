@@ -1,3 +1,0 @@
-Esse é um arquivo de teste. Testado e aprovado.
- Um teste com add.
-Opa, agora estou usndo o repositório.
